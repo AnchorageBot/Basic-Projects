@@ -16,32 +16,9 @@ ClockworkPi v2.0 supports the Raspberry Pi Pico H/ Pico WH series and various co
 
 ​
 
-​
-
-FLASH
-​
-2MB
-​
-2MB
-​
-4MB
-​
-​4MB
-WIFI
-​
-​
-​
-802.11n
-​
-​
-​
-​802.11n
-Bluetooth
-​
-​
-​
-5.2
-​
-​
-​
-​5.2
+​| Model      | CPU Microarchitecture | Freq.   | Cores |  SRAM  | Flash |  Wi-Fi  | Bluetooth |
+| :--------- | :-------------------: | :-----: | :---: | :----: | :---: | :-----: | :-------: |
+| Pico 1 H*  |    Arm Cortex-M0+     | 133 MHz |   2   | 264 KB | 2 MB  |    —    |     —     |
+| Pico 1 WH* |    Arm Cortex-M0+     | 133 MHz |   2   | 264 KB | 2 MB  | 802.11n |    5.2    |
+| Pico 2**   |    Arm Cortex-M33     | 150 MHz |   2   | 520 KB | 4 MB  |    —    |     —     |
+| Pico 2 W** |    Arm Cortex-M33     | 150 MHz |   2   | 520 KB | 4 MB  | 802.11n |    5.2    |
